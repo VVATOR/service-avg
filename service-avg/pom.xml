@@ -9,6 +9,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
 		<maven.bundle.plugin.version>3.3.0</maven.bundle.plugin.version>
 	</properties>
